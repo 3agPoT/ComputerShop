@@ -1,0 +1,10 @@
+
+f	java:S1171"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æÔÉ¿
+k	java:S117E"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÒîÇ‰ıÿÿÿÿ
+Ø
+java:S1598"ÁThis file "ComputerBuilder.java" should be located in "ComputerShop\practic3\businessLogic" directory, not in "C:\Users\vladr\IdeaProjects\Builder-main\Builder-main\src\practic3\businessLogic".(“ğÔì
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(“ğÔì
+c	java:S116	"NRename this field "CPU" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘ÚÔ¦
+h	java:S116"NRename this field "RAM" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºó§ãúÿÿÿÿ
+p
+java:S4144V"ZUpdate this method so that its implementation is not identical to "getMotinor" on line 82.(“Œ¤

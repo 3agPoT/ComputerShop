@@ -1,0 +1,26 @@
+
+Ö
+java:S1598"¿This file "UserInterface.java" should be located in "ComputerShop\practic3\userInterface" directory, not in "C:\Users\vladr\IdeaProjects\Builder-main\Builder-main\src\practic3\userInterface".(ë²‹‘
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ë²‹‘
+@	java:S106"+Replace this use of System.out by a logger.(Ä‰û´
+?	java:S106"+Replace this use of System.out by a logger.(Åªä4
+@	java:S106"+Replace this use of System.out by a logger.(ñÌ–
+E	java:S106"+Replace this use of System.out by a logger.(ã•õœúÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(Ó€ı¸
+@	java:S106"+Replace this use of System.out by a logger.(“¨Î²
+E	java:S106"+Replace this use of System.out by a logger.(ÚßÎ»ÿÿÿÿÿ
+Q
+java:S2696"6Make the enclosing method "static" or remove this set.(€şşğøÿÿÿÿ
+<	java:S131""Add a default case to this switch.(ë¡Çøÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(Úù£»
+@	java:S106!"+Replace this use of System.out by a logger.(‘ïÒç
+?	java:S106%"+Replace this use of System.out by a logger.(½Ñõ
+E	java:S1063"+Replace this use of System.out by a logger.(Ï–£æıÿÿÿÿ
+E	java:S1064"+Replace this use of System.out by a logger.(±Ë •ùÿÿÿÿ
+@	java:S1065"+Replace this use of System.out by a logger.(ø’ãé
+E	java:S1066"+Replace this use of System.out by a logger.(å‰şÿÿÿÿ
+E	java:S1067"+Replace this use of System.out by a logger.(¢‚‘óûÿÿÿÿ
+E	java:S1068"+Replace this use of System.out by a logger.(ÇÄ¬¦şÿÿÿÿ
+E	java:S106:"+Replace this use of System.out by a logger.(•€ÂÒùÿÿÿÿ
+@	java:S106R"+Replace this use of System.out by a logger.(‘İØş
+@	java:S106W"+Replace this use of System.out by a logger.(¿ÎÁ·

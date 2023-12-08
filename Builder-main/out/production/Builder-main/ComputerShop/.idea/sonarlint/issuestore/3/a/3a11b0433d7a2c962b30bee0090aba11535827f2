@@ -1,0 +1,7 @@
+
+[	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(ä¡Òñ
+Ñ
+java:S1598"ºThis file "Computer.java" should be located in "ComputerShop\practic3\businessLogic" directory, not in "C:\Users\vladr\IdeaProjects\Builder-main\Builder-main\src\practic3\businessLogic".(“ðÔì
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(“ðÔì
+c	java:S116	"NRename this field "CPU" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘ÚÔ¦
+h	java:S116"NRename this field "RAM" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºó§ãúÿÿÿÿ
